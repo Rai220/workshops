@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+      "agent": "./card_block_agent.py:agent"
+    },
+    "env": ".env"
+}  
