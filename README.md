@@ -1,6 +1,16 @@
 # workshops
 Дополнительные матриалы к воркшопам и выступлениям
 
+## [Пример использования MCP и GigaChat (2025.04.12)](mcp_agent/README.md)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/scYbc9zRark/0.jpg)](https://www.youtube.com/watch?v=scYbc9zRark)
+- Что такое MCP
+- Где его можно использовать
+- Как подключить к своему cli-агенту
+- Как это выглядит на уровне протокола
+- Делаем своего MCP агента с нуля
+- Делаем свой MCP сервер и подключаем к агенту
+
+
 ## [Создание мультиагентной системы с reasoning'ом и поиском в интернете на LangGraph и GigaChat-2 (2025.03.14)](agentic_reasoning/README.md)
 - Новые возможности GigaChat-2 при создании агентов.
 - Запуск агента в режиме веб-сервиса
