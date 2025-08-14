@@ -1,0 +1,7 @@
+pandas==2.3.1
+numpy==2.3.2
+langchain-gigachat==0.3.12
+langchain_tavily==0.1.5
+deepagents>=0.0.3
+langgraph==0.4.5
+langgraph-cli[inmem]==0.2.2
