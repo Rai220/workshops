@@ -175,3 +175,4 @@ cython_debug/
 
 .env
 .langgraph_api
+.vscode
